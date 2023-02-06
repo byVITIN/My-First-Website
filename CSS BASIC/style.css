@@ -3,9 +3,16 @@ body{
 }
 
 .title{
+    text-align: center;
     color: white;
     font-family: 'Press Start 2P', cursive;
     font-size: 100px;
+    margin-top: 50px;
+    
+}
+
+.title:hover{
+    opacity: 0%;
 }
 
 .link{
