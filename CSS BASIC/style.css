@@ -1,4 +1,9 @@
+body{
+    background-color: black;
+}
+
 .title{
+    color: white;
     font-family: 'Press Start 2P', cursive;
     font-size: 100px;
 }
